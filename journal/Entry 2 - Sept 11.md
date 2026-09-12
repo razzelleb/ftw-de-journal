@@ -24,14 +24,14 @@
 
 ## Reflection (optional)
 
-- What felt easy today?
+What felt easy today?
 - What felt easy today is finding the null in data.
   
-- What felt difficult today?
+What felt difficult today?
 - Writing PySpark
 - Making a dashboard for data quality check
   
-- What do I want to understand better next time?
+What do I want to understand better next time?
 - I want to become more proficient in PySpark
 
 ## Mood or meme (optional)
