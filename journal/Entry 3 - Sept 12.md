@@ -3,18 +3,23 @@
 Use this version only if you want more structure. The basic `entry.md` is enough for most days.
 
 ## Today in one sentence
-- 
+- Today was full of learnings and I got a lot of insights about batch and streaming data.
 
 ## What I learned
-- 
-- 
+- I learned about idempotency of pipelines.
+- I had a little bit practice of PySpark.
+- I learned what web scraping is.
+- I learned the advantage of BeautifulSoup compared to pandas.
 
 ## Terms I am still learning
-- **term** - my definition in simple words
-- 
+- Batch - is where data arrives in groups
+- Streaming - is where data arrives continuously
+- Merge - can handle both new and changed records
+- Idempotency - is where a pipeline can run safely over and over again
 
 ## What confused me
-- 
+- What confused me is how to do the queries in PySpark
+- How to code for SCD Type 2
 
 ## One small next step
 - [ ] 
