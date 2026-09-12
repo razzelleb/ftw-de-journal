@@ -35,4 +35,4 @@ What do I want to understand better next time?
 - I want to become more proficient in PySpark
 
 ## Mood or meme (optional)
-- 
+- ![Entry 2 Image](../assets/Entry%202.jpg)
