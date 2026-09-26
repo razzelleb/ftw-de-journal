@@ -1,6 +1,4 @@
-# Journal - {{DATE}} - {{TOPIC OR DAY N}}
-
-Use this version only if you want more structure. The basic `entry.md` is enough for most days.
+# Journal - Sept 26 - Week 10
 
 ## Today in one sentence
 - 
