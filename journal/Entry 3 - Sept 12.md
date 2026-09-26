@@ -31,4 +31,4 @@ Use this version only if you want more structure. The basic `entry.md` is enough
 
 
 ## Mood or meme (optional)
-- 
+- ![](/assets/Entry%203%20meme.jpg)
